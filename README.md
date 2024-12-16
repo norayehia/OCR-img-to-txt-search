@@ -65,10 +65,7 @@ This project automates the process of extracting student IDs from images using O
 ### How to Run
 1. Clone the repository.
 2. Update the source folder, target folder, and student IDs in the script.
-3. Run the script:
-   ```bash
-   python search_and_move_images.py
-   ```
+3. Run it   
 4. Check the target folder for the organized output.
 
 ### Potential Use Cases
